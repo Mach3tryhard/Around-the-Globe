@@ -2,4 +2,4 @@
 Chat app with node.js websocket
 
 
-node server.js localhost:8080
+"node server.js localhost:8080" to start server
