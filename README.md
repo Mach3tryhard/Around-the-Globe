@@ -1,3 +1,5 @@
 # Around-the-Globe
 Chat app with node.js websocket
-npm server.js localhost:8080
+
+
+node server.js localhost:8080
